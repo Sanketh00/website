@@ -4,7 +4,7 @@
 
 The website and docs for [neon](https://github.com/neon-bindings/neon)
 
-## Setup
+## Setup of beautiful thing
 
 ```bash
 git clone https://github.com/neon-bindings/website
